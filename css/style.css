@@ -165,7 +165,7 @@ a {
 .terz-sx > h2 {
   margin-top: 60px;
   color: #b1e4f4;
-  margin-left: 50px;
+  margin-left: 70px;
 }
 .terz-sx > h1 {
   text-align: center;
@@ -190,8 +190,36 @@ a {
   color: orange;
   border: none;
   margin-top: 30px;
+  margin-left: 25px;
 }
 
 #btn-two:hover{
   background-color: #69a0fd;
+}
+
+/* Quarta Main */
+
+.center-img {
+  width: 100%;
+  height: 100%;
+  margin-top: 80px;
+  margin-left: 120px;
+  background-image: url(../img/artist-video-poster.jpg);
+  background-repeat: no-repeat;
+}
+
+.tube {
+  margin: 30% 45%;
+}
+
+.main-quattro {
+  background-image: url(../img/maxcoach-shape-05-150x150.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.main-due-quattro {
+  background-image: url(../img/maxcoach-shape-12-100x100.png);
+  background-repeat: no-repeat;
+  background-position: right;
+
 }
