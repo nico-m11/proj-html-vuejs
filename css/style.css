@@ -107,3 +107,44 @@ a {
 .part-one-dx > img {
   height: 400px;
 }
+
+/* main parte 2 */
+.second-main-top {
+  background-image: url(../img/artist-shape-01-300x288.png);
+  background-repeat: no-repeat;
+}
+.second-main {
+  background-image: url(../img/maxcoach-shape-14.png);
+  background-repeat: repeat-x;
+}
+.second-main > h1 {
+  color: #b1e4f4;
+  margin-top: 60px;
+  margin-left: 42%;
+}
+.second-main > h3 {
+  text-align: center;
+  margin-top: 25px;
+  style="font-family: 'Roboto', sans-serif;"
+}
+
+.card-m {
+  position: relative;
+  left: 450px;
+  margin-top: 70px;
+  style="font-family: 'Roboto', sans-serif;"
+}
+.card-m > img {
+  margin-left: 65px;
+}
+.card-m > h6 {
+  text-align: center;
+  margin-top: 20px;
+}
+.card-m > p {
+  margin-top: 20px;
+}
+
+.xD {
+  margin-top: 150px;
+}
