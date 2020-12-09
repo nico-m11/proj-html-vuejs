@@ -132,7 +132,7 @@ a {
   position: relative;
   left: 450px;
   margin-top: 70px;
-  style="font-family: 'Roboto', sans-serif;"
+  font-family: 'Roboto', sans-serif;
 }
 .card-m > img {
   margin-left: 65px;
@@ -147,4 +147,51 @@ a {
 
 .xD {
   margin-top: 150px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+/* Terza Main */
+.terz-sx {
+  margin-top: 100px;
+  margin-left: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+.terz-sx  > img {
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.terz-sx > h2 {
+  margin-top: 60px;
+  color: #b1e4f4;
+  margin-left: 50px;
+}
+.terz-sx > h1 {
+  text-align: center;
+}
+.terz-dx {
+  float: right;
+  margin-left: 170px;
+  margin-top: 150px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#second-p {
+  margin-top: 50px;
+}
+
+.terz-dx > p {
+  margin-top: 90px;
+}
+
+#btn-two {
+  background-color: #fdf0ea;
+  color: orange;
+  border: none;
+  margin-top: 30px;
+}
+
+#btn-two:hover{
+  background-color: #69a0fd;
 }
