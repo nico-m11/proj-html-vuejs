@@ -90,7 +90,7 @@ a {
 }
 #btn-one {
  color: white;
- background-color: #efab43;
+ background-color: #ef6f31;
  border: none;
  box-shadow: -2px 1px 10px 0px gray;
 }
@@ -120,7 +120,6 @@ a {
 .second-main > h1 {
   color: #b1e4f4;
   margin-top: 60px;
-  margin-left: 42%;
 }
 .second-main > h3 {
   text-align: center;
@@ -221,5 +220,136 @@ a {
   background-image: url(../img/maxcoach-shape-12-100x100.png);
   background-repeat: no-repeat;
   background-position: right;
+}
 
+/* quinta Main */
+
+.container-fluid > h1 {
+  text-align: center;
+  color: #b1e4f4;
+}
+
+.container-fluid > h2 {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.colonna-sx {
+  margin-left: 100px;
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.colonna-sx > img {
+  border-radius: 50%;
+  height: 100px;
+}
+.colonna-sx > span {
+  margin-left: 120px;
+  position: relative;
+  bottom: 70px;
+}
+
+#nome-people {
+  margin-left: 120px;
+  position: relative;
+  bottom: 70px;
+}
+
+.colonna-cent {
+  margin-left: 120px;
+  margin-right: 50px;
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.colonna-cent > img {
+  border-radius: 50%;
+  height: 100px;
+}
+.colonna-cent > span {
+  margin-left: 120px;
+  position: relative;
+  bottom: 70px;
+}
+
+.colonna-dx {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 120px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+.colonna-dx > img {
+  border-radius: 50%;
+  height: 100px;
+}
+.colonna-dx > span {
+  margin-left: 120px;
+  position: relative;
+  bottom: 70px;
+}
+
+.container-fluid > i {
+  text-align: center;
+}
+
+.pieno {
+  margin-left: 45%;
+}
+
+/* sesta main */
+.six > h1 {
+  text-align: center;
+  margin-top: 50px;
+  color: #b1e4f4;
+}
+.six > h2 {
+  text-align: center;
+}
+.card-body {
+  height: 200px;
+}
+.card-body:hover {
+  border: 3px solid orange;
+  transform: scale(1.1);
+}
+
+.img-sx-one > img {
+  height: 370px;
+  width: 286px;
+}
+
+.sei {
+  margin-left: 320px;
+}
+.special {
+  margin-right: 25px;
+  margin-bottom: 50px;
+}
+
+.sp {
+  margin-right: 100px;
+}
+
+#btn-tree {
+  margin-left: 45%;
+  background-color: #fdf0ea;
+  color: orange;
+  border: none;
+  margin-top: 20px;
+}
+#btn-tree:hover{
+  background-color: #69a0fd;
+}
+
+/* Settima main */
+.seven {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.seven > h1 {
+  color: #b1e4f4;
 }
